@@ -144,7 +144,7 @@ makeMarker(%s,%s,'%s',"%s","%s");
 DIR = "./data/"
 
 if __name__ == '__main__' :
-    with open("eco.tpl") as ftpl :
+    with open("data/eco.tpl") as ftpl :
         tpl = ftpl.read()
         print tpl
      
