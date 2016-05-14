@@ -1,0 +1,45 @@
+- name : Casa das Artes
+  tags :
+    - empresa
+    - arte
+
+- name : deCurators
+  desc : Galeria de Arte
+  tags :
+    - galeria
+    - arte
+    - lugar
+  links : 
+    - http://decurators.org/ Home
+    - https://www.facebook.com/decurators Facebook
+  img : decu.jpg  
+  map : -15.74778 -47.88372
+
+- name : Alfinete 
+  tags : 
+    - galeria 
+    - arte 
+    - lugar
+  desc : Galeria de Arte 
+  map : -15.73982 -47.89356
+
+- name : Elefante Centro Cultural
+  tags : 
+    - galeria
+    - arte 
+    - lugar
+  links : 
+    - http://elefantecentrocultural.com/ Home 
+    - https://www.facebook.com/BRASILIACONTEMPORANEA Facebook
+  map  : -15.77098 -47.88941
+  
+- name : Galeria Arquetipus
+  tags : 
+    - arte 
+    - galeria
+    - lugar
+  desc : Nova galeria de arte
+  links : 
+    - https://www.facebook.com/Arquetipus-1598231080451256/info?tab=page_info Facebook
+  map : -15.80504 -47.95512
+

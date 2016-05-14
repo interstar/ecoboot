@@ -1,0 +1,281 @@
+- name : Calango Hacker Clube
+  desc : O novo espaço hacker do Brasilia
+  tags : 
+    - lugar
+    - maker
+  links : 
+    - http://calango.club/ Home
+  img : calango.jpg
+  where : CLN 310, Bl B lj 51 subsolo, CEP 70756-520, Brasília - DF 
+  map : -15.75653 -47.89048
+
+- name : FabLab Brasilia
+  tags : 
+    - lugar
+    - empresa
+    - maker
+  links : 
+    - http://www.brasiliafablab.com.br/ Site
+    - https://instagram.com/bsbfablab Instagram
+  img : fablab.png
+  where : CLN 305 Bloco B Subsolo - Asa Norte
+  map : -15.77422 -47.88563
+  
+- name : Galeria Ponto
+  desc : Galeria de arte, makerspace, consultoria tecnologia de fabricação 
+  tags :
+    - lugar
+    - empresa
+    - maker
+    - galeria
+    - arte
+  links : 
+    - http://galeriaponto.com.br/a-galeria-ponto/ Site
+  where : CRN 710/711, Bloco "D", loja 23. Subsolo.
+  map : -15.75774 -47.89526
+  
+- name : Crazy Tech Labs
+  links : 
+    - http://www.crazytechlabs.com/ Home
+  tags :
+    - empresa 
+    - escola
+  map : -15.78395 -47.88831
+
+- name : 4Legal 
+  desc : Co-working
+  tags : 
+    - coworking 
+    - empresa
+    - lugar
+  links : 
+    - http://4legal.com.br/ Site
+  map : -15.80313 -47.88199
+
+- name : Espaço Multiplicidade
+  desc : Co-working 
+  tags : 
+    - coworking
+    - empresa
+    - lugar
+  where : 702/3 Norte, Bloco A, Ed. Geraldo Machado, Entrada 13, Sobreloja  Brasília - DF - 70720-610.
+  links : 
+    - http://www.espacomultiplicidade.com.br/ Site
+  map : -15.78122 -47.88811  
+  
+- name : O de Casa
+  links : 
+    - https://odecasa206.wordpress.com/ Home
+  tags :
+    - escola
+    - lugar
+    - maker
+  desc : Um lugar diferente, onde repaginamos móveis usados e criamos pequenas coisas que  tornam nossas moradas mais alegres, coloridas e autênticas. ÔdeCasa! é também um Atelie Livre! Um lugar para despertar e inspirar sua criatividade. Agende um horário no Ateliê para colocar a “mão-na-massa”. Usar seu tempo para cultivar sua criatividade, pintando, bordando, costurando, lixando, reaproveitando materiais é uma forma de presente(ficar) você mesmo.  
+  map : -15.76993 -47.87902
+
+- name : Coletivo Ora Bolas  
+  links : 
+    - http://coletivoorabolas.blogspot.com.br/ Blog  
+  desc : Ora Bolas é um coletivo de criação comprometido com a realização de projetos independentes, autorais e livremente educativos. Por meio de um trabalho dialógicoexquisito, se aproxima de organizações que entendem o trabalho como meio de promover a transformação, em oposição à manutenção das atividades humanas predatórias.
+  img : cob.gif
+  tags : 
+    - atelier
+    - lugar
+    - escola 
+
+- name : Escola De Escultura
+  links : 
+    - http://escoladeescultura.com.br/ Home
+  tags : 
+    - lugar 
+    - atelier
+    - escola
+  where : CLN 112 bloco A loja 29
+  img : escultura.jpg
+  map : -15.75221 -47.88916
+  
+
+- name : Huinfinito
+  links : 
+    - http://www.huinfinito.com.br/ Site
+  tags :
+    - empresa
+    - eletronica
+    - loja
+  img : hu-infinito.jpg
+  map : -15.77062 -47.87987
+  
+- name : ROBÓTICA 10
+  links : 
+    - http://robotica10.com.br/ Site
+  tags : 
+    - empresa
+    - eletronica
+
+- name : Raider Eletronica
+  tags : 
+    - empresa
+    - eletronica 
+    - loja
+  map : -15.81908 -47.91258
+
+- name : LojaMundi
+  tags : 
+    - loja
+    - eletronica
+    - empresa
+  img : lm.png
+  links : 
+    - http://www.lojamundi.com.br/ Site
+
+- name : Protomak
+  desc : Consultoria e impressora 3D
+  links : 
+    - http://www.protomak.com.br/ Site
+  tags : 
+    - empresa 
+    - eletronica 
+    - maker
+  map : -15.80989 -47.90229
+  
+- name : Calango Hacker Clube
+  links : 
+    - http://calango.club Home 
+    - http://www.meetup.com/Calango-Hacker-Club/ Meetup
+  desc : Grupo / Espaço de hackers no Brasília.
+  tags : 
+    - grupo
+    - meetup
+  img : calango.png
+
+- name : MusicHacking  
+  links : 
+    - http://calango.club/projetos:musichacking:inicio Home
+  tags : 
+    - grupo
+    - meetup
+    - musica
+    - arte
+  img : musichacking.jpg
+  
+- name : CalangoLivre
+  links : 
+    - http://calango.club/temas:calango_livre Home 
+  tags : 
+    - grupo 
+    - meetup
+    
+- name : Crazy Tech Guys
+  links : 
+    - http://www.crazytechguys.com/ Home 
+    - http://www.meetup.com/CrazyTechGuys-Brasilia-BR-IoT-Coding-Hacking-Fun-Geek Meetup
+  tags : 
+    - grupo
+    - meetup
+  img : ctg.png
+  
+- name : Google Developers Group
+  links : 
+    - https://developers.google.com/groups/chapter/101378728126520052592/ Home  
+    - https://pt-br.facebook.com/gdgbrasilia Facebook
+  tags : 
+    - grupo
+
+- name : Escola Web
+  links : 
+    - http://www.meetup.com/Escola-Web/ Meetup
+  tags : 
+    - meetup
+
+- name : Labre - Radioamadorismo no Brasilia
+  links : 
+    - http://www.labre-df.org/ Home
+  desc : Missao - promover o radioamadorismo e a uniao dos radioamadores levando nossa atividade ao alcance de toda a populacao do distrito federal e entorno. lutar pelos direitos e interesses dos seus associados junto ao governo e a sociedade civil.
+  tags : 
+    - grupo
+    - lugar
+  img : labre.jpg
+  map : -15.8056 -47.8305
+  
+- name : Equipe Droid
+  desc : A DROID – Divisão de Robótica Inteligente
+  links : 
+    - http://www.equipedroid.com.br/ Home
+  img : equipedroid.jpg
+
+- name : Associação de Aeromodelismo e Modelismo da M Norte
+  links : 
+    - http://www.brasiliaaeromodelismo.com.br/ Site
+
+- name : Ozi  
+  links : 
+    - http://www.ozi.com.br/ Home 
+  desc : Cursos AudioVisual (Cinema, Animação, Modelagem 3D, Áudio)
+  tags : 
+    - empresa
+    - escola
+  map : -15.7402 -47.8990
+
+- name : ETB (Escola Técnica de Brasília)
+  desc : ETB oferece além dos cursos técnicos presenciais, a distância e de formação continuada de trabalhadores, projetos abertos aos alunos de maneira a aperfeiçoar seus conhecimentos práticos tais como Robótica, Arduíno, ETB-MIX  
+  links : 
+    - http://www.etb.com.br/ Home
+  img : etb.jpg
+  tags : 
+    - escola 
+  map : -15.8609 -48.0282
+
+- name : IBTI (INSTITUTO BRASÍLIA DE TECNOLOGIA E INOVAÇÃO)
+  map : -15.79357 -47.91449
+  links :
+    - http://ibti.net.br/ Site
+    
+- name : UnB Gama
+  links : 
+    - https://fga.unb.br/ Site
+  map : -15.9895 -48.0444
+  desc : Engenharia Aeroespacial; Engenharia Automotiva; Engenharia Eletrônica; Engenharia de Energia; Engenharia de Software;
+  where : Área Especial, Projeção A, UnB - Setor Leste - Gama, CEP 72444-240
+  tags :
+    - escola
+
+- name : Negocios Reais 
+  links :
+    - https://www.negociosreais.com.br Site
+  desc : Desenvolvimento de projetos startup e modelos de negocio, aplicativos ecommerce, portais e projetos de P&D
+  where : CLN 314  Bloco D sala 206 - Asa Norte, CEP 70.767-540
+  tags:
+    - FabricaDeSoftware
+    - empresa
+  map : -15.7443 -47.8953
+  
+
+- name : Tecnoveste 
+  links :
+    - http://www.tecnoveste.com.br/ Home
+  tags :
+    - site
+    - empresa
+  img : tecnoveste.png
+
+- name : Através do Glass
+  links : 
+    - http://www.atravesdoglass.com.br/ Home
+    
+- name : Escola Web
+  tags : 
+    - meetup
+  links : 
+    - http://www.meetup.com/Escola-Web/ Meetup
+    
+- name : Brasilia Tech Meetups
+  links : 
+    - http://www.meetup.com/cities/br/bras%C3%ADlia/tech/ Meetup
+  tags :
+    - meetup
+    
+- name : Clube de Astronomia de Brasília
+  tags :
+    - meetup
+  links : 
+    - http://www.casb.org.br/ Site   
