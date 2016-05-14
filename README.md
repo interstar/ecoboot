@@ -16,7 +16,7 @@ O script "go.sh" mostra como utilizar elas junto.
 
 Pra quem quer executar ou mexer com o codigo. 
 
-Obs : precisa Python e o biblioteca de Markdown instalado
+Obs : **precisa Python e o biblioteca de Markdown instalado**
 
 Entao
 
@@ -34,7 +34,9 @@ Entao
     ./go.sh
     firefox brasilia/index.html
   
-Isso vai criar um nova pasta chamada *brasilia* com o
+Isso vai criar um nova pasta chamada *brasilia* com o site dentro.
+
+
 
 ## Comecar Rapido #2 : "Hustler" 
 
