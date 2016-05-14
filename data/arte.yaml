@@ -20,8 +20,10 @@
     - galeria 
     - arte 
     - lugar
+  links : 
+    - https://www.facebook.com/AlfineteGaleria/ Facebook
   desc : Galeria de Arte 
-  map : -15.73982 -47.89356
+  map : -15.77763 -47.88343
 
 - name : Elefante Centro Cultural
   tags : 
