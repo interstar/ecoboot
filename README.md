@@ -40,9 +40,9 @@ Isso vai criar um nova pasta chamada *brasilia* com o
 
 Pra quem quer adicionando / melhorando o catalog do ecossistema.
 
-   git clone https://github.com/interstar/ecoboot
+    git clone https://github.com/interstar/ecoboot
 
-   cd ecoboot/data
+    cd ecoboot/data
   
 Dentro desta pasta *data* tem varias arquivos tipo YAML. A formato deles 'e simples :
 
