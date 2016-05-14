@@ -46,6 +46,8 @@ Pra quem quer adicionando / melhorando o catalog do ecossistema.
   
 Dentro desta pasta *data* tem varias arquivos tipo YAML. A formato deles 'e simples :
 
+<pre>
+
 - name : TechStartup
   desc : Esse startup cria apps fodasticas
   links :
@@ -57,7 +59,7 @@ Dentro desta pasta *data* tem varias arquivos tipo YAML. A formato deles 'e simp
   where : CLN 111, Bloco X, Apt 201
   map : -15.80839 -42.20229
    
-  
+</pre>  
 
 
 
