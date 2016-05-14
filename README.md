@@ -20,19 +20,19 @@ Obs : precisa Python e o biblioteca de Markdown instalado
 
 Entao
 
-  git clone https://github.com/interstar/ecoboot
-  cd ecoboot
+    git clone https://github.com/interstar/ecoboot
+    cd ecoboot
   
-  cd bootdown 
-  git submodule init
-  git submodule update
+    cd bootdown 
+    git submodule init
+    git submodule update
   
-  cd ..
-  
-  mkdir assets
+    cd ..
+   
+    mkdir assets
 
-  ./go.sh
-  firefox brasilia/index.html
+    ./go.sh
+    firefox brasilia/index.html
   
 Isso vai criar um nova pasta chamada *brasilia* com o
 
@@ -40,9 +40,9 @@ Isso vai criar um nova pasta chamada *brasilia* com o
 
 Pra quem quer adicionando / melhorando o catalog do ecossistema.
 
-  git clone https://github.com/interstar/ecoboot
+   git clone https://github.com/interstar/ecoboot
 
-  cd ecoboot/data
+   cd ecoboot/data
   
 Dentro desta pasta *data* tem varias arquivos tipo YAML. A formato deles 'e simples :
 
