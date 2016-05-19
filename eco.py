@@ -154,8 +154,8 @@ if __name__ == '__main__' :
                 data = data + load(f, Loader=Loader)
 
         print ppMap("index",data)
-        print ppPage("lugares",[makeSection(data,"Lugares",lambda x : (hasTag(x,"lugar") ) ) ] )
-        print ppPage("makers",[makeSection(data,"Makers",lambda x : (hasTag(x,"maker") or hasTag(x,"hacker"))) ] )
+        print ppPage("lugares",[makeSection(data,"Coworking",lambda x : (hasTag(x,"coworking") ) ) ] )
+        print ppPage("makers",[makeSection(data,"Makers",lambda x : (hasTag(x,"makers") or hasTag(x,"hacker"))) ] )
                     
         print ppPage("empresas",[makeSection(data,"Empresas",lambda x : (hasTag(x,"empresa") ) ) ])
         print ppPage("arte",[makeSection(data,"Galerias",lambda x : (hasTag(x,"galeria") ) ) ])        
